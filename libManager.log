@@ -1,0 +1,20 @@
+\o Program:		@(#)$CDS: libManager.exe version 5.0.2 01/23/2007 12:28 (ocelot-linux.Cadence.COM) $
+\o Sub version:		sub-version 03.01-s042
+\o Arguments:		-unmapped -mpssession icfb13854 -mpshost t7400-11.EECS.Berkeley.EDU 
+\o Working Directory:	t7400-11.EECS.Berkeley.EDU:/home/cc/ee140/sp15/class/ee140-au/ee140/project
+\o Extended color mode (TrueColor 32 0x73) in use.
+\o Warning: LIB basic from File /usr/local/cadence/IC5141USR5-copied-from-share-instsww/share/cdssetup/cds.lib Line 6 redefines
+\o LIB basic from File /usr/local/cadence/IC5141USR5-copied-from-share-instsww/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\o Insert UNDEFINE basic
+\o before DEFINE basic
+\o     in /usr/local/cadence/IC5141USR5-copied-from-share-instsww/share/cdssetup/cds.lib
+\o Or remove or comment out DEFINE basic
+\o     in /usr/local/cadence/IC5141USR5-copied-from-share-instsww/tools.lnx86/dfII/etc/cdsDotLibs/composer/cds.lib
+\o to suppress this warning message.
+\o Library Manager customization server connected.
+MPS service: map window
+\o Log file is "/home/cc/ee140/sp15/class/ee140-au/ee140/project/libManager.log".
+Opening libManager window.
+No main selection
+\o Starting the cdsLibEditor...
+\o libManager is exiting.

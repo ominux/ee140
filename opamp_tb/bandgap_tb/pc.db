@@ -1,0 +1,9 @@
+#
+project bandgap symbol
+I7
+#
+analogLib vdc symbol
+V0
+#ISCELL
+analogLib gnd symbol
+I1
