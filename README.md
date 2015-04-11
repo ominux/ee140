@@ -17,7 +17,7 @@ This will download the most recent version of the project from the remote reposi
 
 Whenever you are ready to save something and upload it to the remote repository:
 2. Go up to the top level directory (e.g. project) and type `git add .`
-3. Run `git commit`. Type a brief message explaining your changes and save the text file. This will also show a full list of the files you have changed.
+3. Run `git commit -m "commit msg"`. Type a brief message explaining your changes and save the text file. This will also show a full list of the files you have changed.
 4. Run `git push origin master` to upload your changes to the remote repository.
 
 ### Removing Cadence lock files
