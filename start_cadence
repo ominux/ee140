@@ -1,0 +1,6 @@
+#!/bin/sh
+git pull
+
+# Start cadence from the directory above this
+cd ..
+icfb2 &
