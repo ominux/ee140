@@ -12,8 +12,10 @@ Each cell is a sub-folder in this directory.
 3. Follow the workflow below.
 
 ## Git Workflow 
-1. Before starting Cadence, run `git pull` 
-This will download the most recent version of the project from the remote repository.
+**DO NOT WORK ON THE SAME CELL AS SOMEONE ELSE.**
+I have no idea where Cadence saves things, but all files related to a cell are in the same subfolder. If two people make changes to the same cell merging them will be a mess.
+ 
+1. Before starting Cadence, run `git pull` This will download the most recent version of the project from the remote repository.
 
 Whenever you are ready to save something and upload it to the remote repository:
 
