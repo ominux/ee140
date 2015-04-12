@@ -1,5 +1,5 @@
 #
-project stage1 1StageAmp
+project 1stage_opamp 1StageAmp
 I6
 #
 analogLib vdc symbol

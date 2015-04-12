@@ -1,0 +1,24 @@
+#
+gpdk090 resnsnpoly symbol
+R1
+R0
+#
+gpdk090 pmos1v symbol
+M2B
+M2A
+#
+gpdk090 nmos1v ads
+M1B
+#
+gpdk090 nmos1v symbol
+NM1
+NM3
+M3
+M1A
+#ISCELL
+basic iopin symbolr
+PIN0
+PIN1
+PIN2
+PIN3
+PIN4

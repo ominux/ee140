@@ -1,5 +1,5 @@
 #
-project stage1 1StageAmp
+project 1stage_opamp 1StageAmp
 I2
 #
 gpdk090 pnp symbol
