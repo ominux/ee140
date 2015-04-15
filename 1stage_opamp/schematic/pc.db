@@ -1,7 +1,7 @@
 #
 gpdk090 resnsnpoly symbol
-R1
 R0
+R1
 #
 gpdk090 pmos1v symbol
 M2B
