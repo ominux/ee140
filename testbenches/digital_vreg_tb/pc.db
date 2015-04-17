@@ -1,0 +1,21 @@
+#
+project 1stage_opamp 1StageAmp
+I5
+#
+gpdk090 resnsnpoly symbol
+R1
+R0
+#
+project bandgap symbol
+I3
+#
+analogLib vdc symbol
+V0
+#
+project digital_vreg digital_vreg
+I0
+#ISCELL
+analogLib gnd symbol
+I6
+I2
+I4

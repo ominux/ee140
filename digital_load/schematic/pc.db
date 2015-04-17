@@ -1,0 +1,12 @@
+#
+analogLib cap symbol
+C0
+#
+analogLib ipulse symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN1
