@@ -1,9 +1,12 @@
 #
 gpdk090 resnsnpoly symbol
+R2
 R0
 R1
 #
 gpdk090 pmos1v symbol
+PM2
+PM1
 M2B
 M2A
 #
@@ -13,6 +16,7 @@ M1B
 gpdk090 nmos1v symbol
 NM1
 NM3
+NM4
 M3
 M1A
 #ISCELL
