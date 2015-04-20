@@ -1,12 +1,26 @@
 #
+analogLib vsin symbol
+V2
+#
+analogLib cap symbol
+C0
+#
+gpdk090 resnsnpoly symbol
+R1
+R0
+#
 project nmos_cascode_opamp_lab6 nmos_cascode_lab6
 I5
 #
 analogLib vdc hspiceD
 V1
-V0
 #ISCELL
 analogLib gnd symbol
-I3
 I2
+I3
+I6
 I1
+#ISCELL
+analogLib vdd symbol
+I8
+I7
