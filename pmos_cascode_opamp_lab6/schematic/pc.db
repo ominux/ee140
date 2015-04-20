@@ -15,12 +15,12 @@ PM1
 PM0
 #
 gpdk090 nmos1v symbol
-NM14
+NM15
 NM12
 NM5
-NM2
 NM4
 NM3
+NM2
 #ISCELL
 basic iopin symbolr
 PIN0
