@@ -1,0 +1,18 @@
+#
+gpdk090 resnsnpoly symbol
+R0
+R1
+#
+project 2stage_opamp 2StageAmp
+I12
+#ISCELL
+analogLib gnd symbol
+I13
+I14
+#ISCELL
+basic ipin symbol
+PIN1
+PIN0
+#ISCELL
+basic iopin symbolr
+PIN3

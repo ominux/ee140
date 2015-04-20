@@ -1,0 +1,17 @@
+#
+gpdk090 pmos1v ads
+PM1
+PM0
+#
+gpdk090 nmos1v ads
+NM1
+NM0
+#ISCELL
+analogLib gnd symbol
+I0
+#ISCELL
+basic iopin symbolr
+PIN3
+PIN2
+PIN1
+PIN0

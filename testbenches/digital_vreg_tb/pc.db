@@ -1,4 +1,7 @@
 #
+project analog_vreg digital_vreg
+I8
+#
 project 2stage_opamp 2StageAmp
 I7
 #
