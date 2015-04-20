@@ -1,4 +1,9 @@
 #
+gpdk090 resnsnpoly symbol
+R2
+R0
+R1
+#
 analogLib res symbol
 R_c
 #
@@ -6,21 +11,22 @@ analogLib cap symbol
 C_c
 #
 gpdk090 nmos1v symbol
+NM1
+NM3
+NM4
 M5
 M1A
-M6
 M3
 #
 gpdk090 nmos1v ads
 M1B
 #
 gpdk090 pmos1v symbol
+PM2
+PM1
 M4
 M2A
 M2B
-#
-analogLib idc symbol
-I_ref
 #ISCELL
 basic iopin symbolr
 PIN0

@@ -1,6 +1,6 @@
 #
-project 1stage_opamp 1StageAmp
-I5
+project 2stage_opamp 2StageAmp
+I7
 #
 gpdk090 resnsnpoly symbol
 R1

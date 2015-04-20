@@ -1,9 +1,11 @@
 #
+analogLib vsource symbol
+V1
+#
 project 1stage_opamp 1StageAmp
 I6
 #
 analogLib vdc symbol
-V1
 V0
 #ISCELL
 analogLib gnd symbol
