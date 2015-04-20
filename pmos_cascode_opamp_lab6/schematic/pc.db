@@ -1,8 +1,12 @@
 #
+analogLib cap auCdl
+C0
+#
 analogLib idc symbol
 I0
 #
 gpdk090 pmos1v symbol
+PM15
 PM13
 PM9
 PM10
@@ -16,6 +20,7 @@ PM0
 #
 gpdk090 nmos1v symbol
 NM15
+NM16
 NM12
 NM5
 NM4
@@ -23,8 +28,8 @@ NM3
 NM2
 #ISCELL
 basic iopin symbolr
-PIN0
 PIN1
+PIN0
 PIN2
 PIN3
 PIN4
