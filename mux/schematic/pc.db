@@ -12,14 +12,14 @@ NM4
 NM0
 #
 project inverter symbol
-I6
 I11
-I7
-I5
-I4
 I10
 I9
 I8
+I7
+I6
+I5
+I4
 #
 project nand symbol
 I3
@@ -28,11 +28,11 @@ I1
 I0
 #ISCELL
 basic iopin symbolr
-PIN7
 PIN6
+PIN7
 PIN5
 PIN4
+PIN3
 PIN2
 PIN1
 PIN0
-PIN3
