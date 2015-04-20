@@ -1,9 +1,11 @@
 #
-project_4rmhw7 fullamp 2StageAmp
-I6
+analogLib vsource auLvs
+V1
+#
+project 2stage_opamp 2StageAmp
+I7
 #
 analogLib vdc symbol
-V1
 V0
 #ISCELL
 analogLib gnd symbol
