@@ -3,26 +3,24 @@ analogLib idc symbol
 I0
 #
 gpdk090 pmos1v symbol
+PM13
 PM9
-PM6
-PM4
-PM5a
-PM4a
-PM5b
-PM4b
+PM10
+PM11
+PM12
+PM14
+PM3
+PM2
+PM1
+PM0
 #
 gpdk090 nmos1v symbol
-NM13
+NM14
 NM12
-NM10
-NM8
-NM6
-NM2b
-NM3b
-NM3a
-NM2a
-NM1
-NM0
+NM5
+NM2
+NM4
+NM3
 #ISCELL
 basic iopin symbolr
 PIN0
