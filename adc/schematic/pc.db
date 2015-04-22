@@ -1,0 +1,41 @@
+#
+analogLib vdc symbol
+V3
+V0
+#
+analogLib vpulse symbol
+V1
+#
+8_bit_SAR_logic sar_logic symbol
+I7
+#
+analogLib vdc hspiceD
+V2
+#
+project nmos_cascode_opamp_lab6 nmos_cascode_lab6
+I0
+#
+analogLib cap symbol
+C8
+C7
+C6
+C5
+C4
+C3
+C2
+C1
+C0
+#ISCELL
+analogLib gnd symbol
+I13
+I14
+I12
+I9
+I5
+I2
+I4
+#ISCELL
+analogLib vdd symbol
+I11
+I10
+I8
