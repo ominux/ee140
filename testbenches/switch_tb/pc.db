@@ -1,0 +1,16 @@
+#
+gpdk090 mimcap symbol
+C0
+#
+analogLib vdc symbol
+V4
+V2
+#
+analogLib vpulse symbol
+V1
+#
+project switch symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I1
