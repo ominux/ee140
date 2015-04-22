@@ -1,4 +1,15 @@
 #
+analogLib vpulse symbol
+V5
+V6
+#
+analogLib vsource symbol
+V2
+V1
+#
+project mux symbol
+I9
+#
 project analog_vreg digital_vreg
 I8
 #
@@ -6,6 +17,8 @@ project 2stage_opamp 2StageAmp
 I7
 #
 gpdk090 resnsnpoly symbol
+R3
+R2
 R1
 R0
 #
@@ -19,6 +32,7 @@ project digital_vreg digital_vreg
 I0
 #ISCELL
 analogLib gnd symbol
+I10
 I6
 I2
 I4
