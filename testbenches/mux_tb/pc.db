@@ -12,7 +12,7 @@ V1
 analogLib vdc symbol
 V0
 #
-project mux symbol
+project 4to1mux symbol
 I0
 #ISCELL
 analogLib gnd symbol
