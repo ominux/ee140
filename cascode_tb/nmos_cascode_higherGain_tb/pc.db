@@ -1,0 +1,26 @@
+#
+analogLib vsin hspiceD
+V0
+#
+project nmos_cascode_opamp_higherGain nmos_cascode_higherGain
+I19
+#
+analogLib cap symbol
+C0
+#
+gpdk090 resnsnpoly symbol
+R1
+R0
+#
+analogLib vdc hspiceD
+V1
+#ISCELL
+analogLib gnd symbol
+I16
+I3
+I1
+I9
+#ISCELL
+analogLib vdd symbol
+I8
+I7

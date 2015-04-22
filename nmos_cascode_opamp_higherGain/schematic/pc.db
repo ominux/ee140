@@ -1,0 +1,32 @@
+#
+analogLib idc symbol
+I0
+#
+gpdk090 pmos1v symbol
+PM9
+PM6
+PM4
+PM5a
+PM4a
+PM5b
+PM4b
+#
+gpdk090 nmos1v symbol
+NM13
+NM12
+NM10
+NM8
+NM6
+NM2b
+NM3b
+NM3a
+NM2a
+NM1
+NM0
+#ISCELL
+basic iopin symbolr
+PIN3
+PIN2
+PIN1
+PIN0
+PIN4
