@@ -1,0 +1,16 @@
+#
+analogLib vdc symbol
+V3
+#
+analogLib vsource symbol
+V2
+V1
+#
+analogLib vpulse symbol
+V0
+#
+project 2to1mux symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I1
