@@ -1,0 +1,22 @@
+#
+gpdk090 nmos1v symbol
+NM0
+NM2
+NM1
+#
+analogLib cap symbol
+C0
+C1
+#
+analogLib vcvs symbol
+E0
+#
+analogLib vpulse symbol
+phi1
+phi2
+#ISCELL
+basic iopin symbolr
+PIN3
+PIN1
+PIN2
+PIN0

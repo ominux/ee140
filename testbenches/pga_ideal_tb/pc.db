@@ -1,9 +1,9 @@
 #
-analogLib vsin symbol
-V3
+project pga pga
+I9
 #
-project pmos_cascode_opamp_lab6 pmos_cascode_lab6
-I8
+analogLib vsource symbol
+V1
 #
 analogLib vdc symbol
 V2

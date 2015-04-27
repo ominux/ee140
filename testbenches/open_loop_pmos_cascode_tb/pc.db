@@ -1,6 +1,6 @@
 #
-analogLib vsin symbol
-V3
+analogLib vsource symbol
+V1
 #
 project pmos_cascode_opamp_lab6 pmos_cascode_lab6
 I8
