@@ -2,7 +2,7 @@
 project 2stage_opamp 2StageAmp
 I12
 #
-project 1stage_opamp 1StageAmp
+project 1stage_opamp_working 1StageAmp
 I10
 #
 gpdk090 pmos1v symbol

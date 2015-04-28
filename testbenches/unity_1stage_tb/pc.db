@@ -2,7 +2,7 @@
 analogLib vsource symbol
 V1
 #
-project 1stage_opamp 1StageAmp
+project 1stage_opamp_working 1StageAmp
 I6
 #
 analogLib vdc symbol
