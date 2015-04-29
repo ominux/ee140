@@ -1,6 +1,6 @@
 #
-project pga_ideal pga_ideal
-I9
+project pga pga
+I10
 #
 analogLib vsource symbol
 V1

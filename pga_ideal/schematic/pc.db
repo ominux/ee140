@@ -1,19 +1,19 @@
 #
-project switch_pga symbol
-I15
-I13
-I12
+gpdk090 nmos1v symbol
+NM0
+NM2
+NM1
 #
 analogLib cap symbol
-C1
 C0
+C1
 #
 analogLib vcvs symbol
 E0
 #
 analogLib vpulse symbol
-phi2
 phi1
+phi2
 #ISCELL
 basic iopin symbolr
 PIN3
