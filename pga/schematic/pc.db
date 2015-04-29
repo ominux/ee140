@@ -1,7 +1,11 @@
 #
+gpdk090 nmos1v symbol
+NM0
+#
+gpdk090 nmos2v symbol
+M0
+#
 project switch_pga symbol
-I15
-I13
 I12
 #
 analogLib cap symbol
