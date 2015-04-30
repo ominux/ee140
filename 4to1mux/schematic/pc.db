@@ -28,11 +28,14 @@ I1
 I0
 #ISCELL
 basic iopin symbolr
-PIN6
 PIN7
+PIN6
 PIN5
 PIN4
 PIN3
 PIN2
 PIN1
 PIN0
+#ISCELL
+analogLib gnd symbol
+I12
