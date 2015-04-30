@@ -1,9 +1,9 @@
 #
-gpdk090 nmos1v symbol
-NM0
+gpdk090 nmos2v symbol
+M1
 #
-gpdk090 pmos1v symbol
-PM0
+gpdk090 pmos2v symbol
+M0
 #
 project inverter symbol
 I0
