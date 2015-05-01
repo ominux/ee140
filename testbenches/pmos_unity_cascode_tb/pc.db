@@ -1,17 +1,12 @@
 #
-analogLib vsource symbol
-V1
-#
-project pmos_cascode_opamp_lab6 pmos_cascode_lab6
-I8
+project folded_cascode_opamp cascode_archive
+I7
 #
 analogLib vdc symbol
-V2
+V1
 V0
 #ISCELL
 analogLib gnd symbol
-I10
-I9
 I5
 I4
 I1

@@ -1,21 +1,15 @@
 #
-project pga_ideal pga_ideal
-I9
-#
-analogLib vsource symbol
+analogLib vsin symbol
 V1
 #
+project 1stage_opamp_working 1StageAmp
+I6
+#
 analogLib vdc symbol
-V2
 V3
-V4
-V5
 V0
 #ISCELL
 analogLib gnd symbol
-I12
-I11
-I10
 I5
 I4
 I1
