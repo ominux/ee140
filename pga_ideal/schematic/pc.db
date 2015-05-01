@@ -31,14 +31,14 @@ analogLib vcvs symbol
 E0
 #
 analogLib vpulse symbol
-phi_1
 phi_2
+phi_1
 #ISCELL
 basic iopin symbolr
 PIN4
 PIN5
 PIN6
 PIN3
+PIN1
 PIN2
 PIN0
-PIN1
