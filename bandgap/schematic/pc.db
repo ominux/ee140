@@ -1,6 +1,12 @@
 #
 project 1stage_opamp 1StageAmp
-I2
+I6
+#
+gpdk090 resnsndiff symbol
+R1
+R4
+R6
+R7
 #
 gpdk090 pnp symbol
 Q2

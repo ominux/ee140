@@ -1,4 +1,7 @@
 #
+project pga pga
+I11
+#
 analogLib vpulse symbol
 V5
 V6
@@ -19,8 +22,6 @@ I7
 gpdk090 resnsnpoly symbol
 R2
 R3
-R1
-R0
 #
 project bandgap symbol
 I3
@@ -35,4 +36,3 @@ analogLib gnd symbol
 I10
 I6
 I2
-I4
