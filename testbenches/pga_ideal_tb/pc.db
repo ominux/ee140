@@ -7,9 +7,15 @@ V1
 #
 analogLib vdc symbol
 V2
+V3
+V4
+V5
 V0
 #ISCELL
 analogLib gnd symbol
+I12
+I11
+I10
 I5
 I4
 I1

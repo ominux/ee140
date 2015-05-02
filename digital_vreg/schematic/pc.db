@@ -1,4 +1,16 @@
 #
+gpdk090 resnsndiff symbol
+R7
+R6
+R5
+R4
+#
+gpdk090 resnsnpoly symbol
+R1
+R0
+R2
+R3
+#
 project 2stage_opamp 2StageAmp
 I12
 #
@@ -13,6 +25,8 @@ I4
 #ISCELL
 analogLib gnd symbol
 I13
+I14
+I15
 I5
 I1
 #ISCELL
