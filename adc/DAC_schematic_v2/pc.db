@@ -1,15 +1,19 @@
 #
+8_bit_SAR_logic inv symbol
+I128
+I127
+#
 project switch_noLeak symbol
-I118
-I117
-I116
 I115
-I114
+I118
 I113
 I112
 I111
 I110
+I114
 I109
+I117
+I116
 #
 analogLib vcvs symbol
 E0
@@ -29,8 +33,8 @@ analogLib vsin symbol
 V5
 #
 analogLib vdc symbol
-V20
 V14
+V20
 V13
 V0
 #

@@ -1,0 +1,86 @@
+#
+project nmos_cascode_opamp_lab6 nmos_cascode_lab6
+I153
+#
+project switch_adc_v5 symbol
+I148
+I149
+I144
+I147
+I145
+I146
+I140
+I143
+I142
+I141
+#
+project buffer_adc_v5 symbol
+I130
+I131
+I132
+I133
+I134
+I135
+I136
+I137
+I129
+#
+analogLib vsin symbol
+V5
+#
+analogLib vdc symbol
+V14
+V20
+V13
+V0
+#
+analogLib vpulse symbol
+V19
+V16
+V17
+V15
+V18
+#
+8_bit_SAR_logic sar_logic symbol
+I7
+#
+analogLib cap symbol
+C12
+C14
+C13
+C15
+C8
+C11
+C10
+C9
+C0
+#ISCELL
+analogLib gnd symbol
+I81
+I80
+I105
+I108
+I103
+I70
+I63
+I65
+I106
+I94
+I98
+I97
+I107
+I64
+I62
+I67
+I9
+I68
+I95
+I66
+I69
+I2
+#ISCELL
+analogLib vdd symbol
+I154
+I138
+I8
+I26

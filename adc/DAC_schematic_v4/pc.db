@@ -1,0 +1,84 @@
+#
+project switch_noLeak symbol
+I115
+I118
+I113
+I112
+I111
+I110
+I114
+I109
+I117
+I116
+#
+analogLib vcvs symbol
+E0
+#
+project buffer symbol
+I78
+I58
+I59
+I60
+I53
+I54
+I55
+I56
+I57
+#
+analogLib vsin symbol
+V5
+#
+analogLib vdc symbol
+V14
+V20
+V13
+V0
+#
+analogLib vpulse symbol
+V19
+V16
+V17
+V15
+V18
+#
+8_bit_SAR_logic sar_logic symbol
+I7
+#
+analogLib cap symbol
+C12
+C14
+C13
+C15
+C8
+C11
+C10
+C9
+C0
+#ISCELL
+analogLib gnd symbol
+I81
+I80
+I105
+I108
+I103
+I70
+I63
+I65
+I106
+I94
+I98
+I97
+I107
+I64
+I62
+I67
+I9
+I68
+I95
+I66
+I69
+I2
+#ISCELL
+analogLib vdd symbol
+I8
+I26

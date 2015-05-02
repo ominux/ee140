@@ -1,0 +1,18 @@
+#
+gpdk090 nmos1v symbol
+NM0
+#
+gpdk090 pmos1v symbol
+PM0
+#
+project inverter symbol
+I0
+#ISCELL
+basic iopin symbolr
+PIN1
+PIN2
+PIN0
+PIN4
+#ISCELL
+analogLib gnd symbol
+I1

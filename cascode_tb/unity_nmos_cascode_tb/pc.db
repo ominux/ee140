@@ -1,4 +1,7 @@
 #
+analogLib vcvs symbol
+E0
+#
 analogLib vsin symbol
 V2
 #
@@ -13,12 +16,21 @@ project nmos_cascode_opamp_lab6 nmos_cascode_lab6
 I5
 #
 analogLib vdc hspiceD
+V6
+V5
+V4
 V1
+V3
 #ISCELL
 analogLib gnd symbol
-I2
-I3
+I13
+I12
+I11
+I9
+I10
 I6
+I3
+I2
 I1
 #ISCELL
 analogLib vdd symbol
