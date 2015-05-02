@@ -1,6 +1,6 @@
 #
-analogLib idc symbol
-I0
+gpdk090 resnsndiff symbol
+R0
 #
 analogLib cap auCdl
 C0
@@ -30,8 +30,8 @@ NM3
 NM2
 #ISCELL
 basic iopin symbolr
-PIN4
-PIN3
 PIN0
 PIN1
 PIN2
+PIN3
+PIN4
