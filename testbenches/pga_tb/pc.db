@@ -6,18 +6,18 @@ analogLib vsource symbol
 V1
 #
 analogLib vdc symbol
-V5
-V4
 V3
+V4
 V2
+V5
 V0
 #ISCELL
 analogLib gnd symbol
-I12
-I4
-I11
 I10
+I11
+I12
 I5
+I4
 I1
 #ISCELL
 analogLib vdd symbol

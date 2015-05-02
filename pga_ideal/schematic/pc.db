@@ -1,29 +1,15 @@
 #
-project and symbol
-I26
-I25
-I30
-#
 gpdk090 nmos1v symbol
-NM6
-NM7
 NM0
 NM4
-NM5
 #
 gpdk090 nmos2v symbol
 M0
 #
 project switch_pga symbol
-I27
-I29
-I24
 I12
 #
 analogLib cap symbol
-C6
-C7
-C5
 C1
 C0
 #
@@ -35,9 +21,6 @@ phi_2
 phi_1
 #ISCELL
 basic iopin symbolr
-PIN4
-PIN5
-PIN6
 PIN3
 PIN1
 PIN2
