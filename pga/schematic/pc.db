@@ -31,8 +31,8 @@ C1
 C0
 #
 analogLib vpulse symbol
-phi_2
-phi_1
+V2
+V19
 #ISCELL
 basic iopin symbolr
 PIN4

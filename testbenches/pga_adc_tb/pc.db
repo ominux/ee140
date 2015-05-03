@@ -1,0 +1,30 @@
+#
+project adc symbol
+I17
+#
+project pga pga
+I13
+#
+analogLib vsource symbol
+V1
+#
+analogLib vdc symbol
+V6
+V3
+V4
+V5
+V0
+#ISCELL
+analogLib gnd symbol
+I16
+I10
+I11
+I12
+I5
+I4
+I1
+#ISCELL
+analogLib vdd symbol
+I15
+I3
+I2

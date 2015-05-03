@@ -1,0 +1,82 @@
+#
+project buffer symbol
+I78
+I58
+I59
+I60
+I53
+I54
+I55
+I56
+I57
+#
+analogLib vsin symbol
+V5
+#
+project switch symbol
+I79
+I72
+I15
+I16
+I17
+I18
+I19
+I20
+I21
+I22
+#
+analogLib vdc symbol
+V0
+#
+analogLib vpulse symbol
+V19
+V17
+V18
+V16
+V15
+#
+8_bit_SAR_logic sar_logic symbol
+I7
+#
+project nmos_cascode_opamp_lab6 nmos_cascode_lab6
+I0
+#
+analogLib cap symbol
+C12
+C14
+C13
+C15
+C8
+C11
+C10
+C9
+C0
+#ISCELL
+analogLib gnd symbol
+I105
+I103
+I94
+I95
+I81
+I80
+I70
+I63
+I65
+I98
+I97
+I64
+I62
+I67
+I9
+I68
+I66
+I69
+I2
+#ISCELL
+analogLib vdd symbol
+I104
+I102
+I89
+I10
+I8
+I26
