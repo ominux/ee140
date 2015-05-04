@@ -1,22 +1,19 @@
 #
+project 2stage_opamp 2StageAmp
+I8
+#
 project 1stage_opamp 1StageAmp
 I6
 #
 gpdk090 resnsndiff symbol
+R8
 R1
 R4
 R6
-R7
 #
 gpdk090 pnp symbol
 Q2
 Q1
-#
-gpdk090 resnsnpoly symbol
-R5
-R2
-R3
-R0
 #
 gpdk090 pmos1v symbol
 PM5

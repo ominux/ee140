@@ -18,4 +18,17 @@ I8
 I9
 #ISCELL
 gpdk090 M1_PSUB symbolic
+I12
+I13
+I11
 I2
+#ISCELL
+gpdk090 M1_NWELL symbolic
+I26
+I25
+I23
+I24
+I19
+I20
+I16
+I10
