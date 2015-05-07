@@ -1,0 +1,52 @@
+#
+gpdk090 resnsndiff symbol
+R1
+R3
+R0
+R2
+#
+project pga pga
+I13
+#
+project adc symbol
+I17
+#
+analogLib vpulse symbol
+G0
+G1
+G2
+V5
+V6
+#
+analogLib vsource symbol
+V1
+V10
+#
+project 4to1mux symbol
+I9
+#
+project analog_vreg digital_vreg
+I8
+#
+project 2stage_opamp 2StageAmp
+I21
+I7
+#
+project bandgap symbol
+I3
+#
+analogLib vdc symbol
+V0
+#
+project digital_vreg digital_vreg
+I0
+#ISCELL
+analogLib gnd symbol
+I20
+I10
+I4
+I18
+I6
+I19
+I11
+I2

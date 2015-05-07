@@ -1,4 +1,7 @@
 #
+8_bit_SAR_logic sar_logic symbol
+I156
+#
 project nmos_cascode_opamp_lab6 nmos_cascode_lab6
 I153
 #
@@ -31,9 +34,6 @@ V16
 V17
 V15
 V18
-#
-8_bit_SAR_logic sar_logic symbol
-I7
 #
 analogLib cap symbol
 C12

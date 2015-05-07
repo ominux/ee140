@@ -31,9 +31,9 @@ C1
 C0
 #
 analogLib vpulse symbol
-V3
-V19
 V2
+V19
+V3
 #ISCELL
 basic iopin symbolr
 PIN4
